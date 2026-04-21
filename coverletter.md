@@ -20,10 +20,6 @@ February 24, 2026<br>
 Dear Hiring Manager:<br>
 <br>
 
-February 24, 2026
-
-Dear Hiring Manager:
-
 This letter is to express my interest in the Editorial Assistant Rotational Program position. I believe that my experience will make me a competitive candidate for this position. Please see my attached resume for additional information.
 
 I love words. I consider myself an avid reader, reading daily and finishing most books in a few days. I was drawn to your job opening and excited about the opportunity to explore the various areas of your business offered in the rotational program. Book of the Month's efforts to expose new team members to multiple areas of the business and assess their strengths are impressive. I see the value in placing them where they and the company can most benefit and thrive. You state that your mission is to bring the best new fiction forward. As a member of Book of the Month, I can attest to that. I have been introduced to many new authors through this subscription.
