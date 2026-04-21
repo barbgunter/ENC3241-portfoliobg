@@ -12,32 +12,29 @@ This aid provides instructions for creating a Will document for an existing clie
 
 **Step 1**. Go to WealthCounsel website: [www.wealthcounsel.com](http://www.wealthcounsel.com). Click **Login** (Figure 1).
 
-![](data:image/TkSuQmCC)
-
+![image instructions](image1.docx)
 (_Figure 1. Website home page. Screenshot by Barbara Gunter)_
 
 **Step 2**. Type In Username and Password. Click **Sign In** (Figure 2).
 
-![](data:image/png;base64,ggg==)
-
+![image instructions](image1.docx)
 (_Figure 2. Sign in page. Screenshot by Barbara Gunter)_
 
 **Step 3**. Click **Solutions** on the menu bar Home page (Figure 3).
 
-![](data:image/png;base64,ikSuQmCC)
+![image instructions](image1.docx)
 
 (_Figure 3. Menu bar home page. Screenshot by Barbara Gunter)_
 
 **Step 4**. Click **Customization** from the available drop-down menu (Figure 4).
 
-![](data:image/png;base64,iVTkSuQmCC)
+![image instructions](image1.docx)
 
 (_Figure 4. Solutions dropdown menu. Screenshot by Barbara Gunter)_
 
 **Step 5**. Click **Scenarios** from the available menu (Figure 5).
 
-![](data:image/png;base64,iggg==)
-
+![image instructions](image1.docx)
 (_Figure 5. Click Scenarios. Screenshot by Barbara Gunter)_
 
 **Step 6**. Click the **"+"** sign to create the Will on My Firm's Scenarios page at the far right of the page (Figures 6, 7)
@@ -46,13 +43,13 @@ This aid provides instructions for creating a Will document for an existing clie
 
 (_Figure 6. My Firm's Scenarios page. Screenshot by Barbara Gunter)_
 
-_![](data:image/png;bSFBfnHYMzxsUROGYMhvArT7ASbnwi3ARBuCGJk3gFQbghiXATBOGGJMJNEIQbkgg3QRBuSCLcBEG4IYlwEwThhiTCTRCEG5IIN0EQbkgi3ARBuCH9H7N/biSekQD1AAAAAElFTkSuQmCC)_
+![image instructions](image1.docx)
 
 (_Figure 7. Close-up My Firm's Scenarios "+" icon. Screenshot by Barbara Gunter)_
 
 **Step 7**. After clicking on the **"+"** sign, the **Create Document** screen opens. (Figure 8).
 
-![](data:image/png;base64,7kKIYQQQghx1vt/0/Z0gML7YxwAAAAASUVORK5CYII=)
+![image instructions](image1.docx)
 
 (_Figure 8. Create Document. Screenshot by Barbara Gunter)_
 
@@ -69,5 +66,7 @@ _![](data:image/png;bSFBfnHYMzxsUROGYMhvArT7ASbnwi3ARBuCGJk3gFQbghiXATBOGGJMJNEI
 _Ex: Doe, John. J. Will 2026._
 
 **Step 13**. Edit the document to incorporate client matter specific information.
+
+
 
 
