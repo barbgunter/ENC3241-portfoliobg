@@ -12,7 +12,7 @@ This aid provides instructions for creating a Will document for an existing clie
 
 **Step 1**. Go to WealthCounsel website: [www.wealthcounsel.com](http://www.wealthcounsel.com). Click **Login** (Figure 1).
 
-![image instructions](Image1.docx)
+![image instructions](Image1.jpg)
 
 (_Figure 1. Website home page. Screenshot by Barbara Gunter)_
 
@@ -24,35 +24,35 @@ This aid provides instructions for creating a Will document for an existing clie
 
 **Step 3**. Click **Solutions** on the menu bar Home page (Figure 3).
 
-![image instructions](Image 1.docx)
+![image instructions](Image3.jpg)
 
 (_Figure 3. Menu bar home page. Screenshot by Barbara Gunter)_
 
 **Step 4**. Click **Customization** from the available drop-down menu (Figure 4).
 
-![image instructions](Image1.docx)
+![image instructions](Image4.jpg)
 
 (_Figure 4. Solutions dropdown menu. Screenshot by Barbara Gunter)_
 
 **Step 5**. Click **Scenarios** from the available menu (Figure 5).
 
-![image instructions](Image1.docx)
+![image instructions](Image5.jpg)
 
 (_Figure 5. Click Scenarios. Screenshot by Barbara Gunter)_
 
 **Step 6**. Click the **"+"** sign to create the Will on My Firm's Scenarios page at the far right of the page (Figures 6, 7)
 
-![image instructions](Image1.docx)
+![image instructions](Image6.jpg)
 
 (_Figure 6. My Firm's Scenarios page. Screenshot by Barbara Gunter)_
 
-![image instructions](Image1.docx)
+![image instructions](Image7.jpg)
 
 (_Figure 7. Close-up My Firm's Scenarios "+" icon. Screenshot by Barbara Gunter)_
 
 **Step 7**. After clicking on the **"+"** sign, the **Create Document** screen opens. (Figure 8).
 
-![image instructions](Image1.docx)
+![image instructions](Image8.jpg)
 
 (_Figure 8. Create Document. Screenshot by Barbara Gunter)_
 
