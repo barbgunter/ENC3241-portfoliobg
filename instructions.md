@@ -6,8 +6,6 @@ title: Instructions
 
 # Instructions for Creating a Will via WealthCounsel
 
-**Instructions **
-
 This aid provides instructions for creating a Will document for an existing client in WealthCounsel software.
 
 **Step 1**. Go to WealthCounsel website: [www.wealthcounsel.com](http://www.wealthcounsel.com). Click **Login** (Figure 1).
