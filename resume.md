@@ -21,7 +21,7 @@ Experienced professional who has worked in fast-paced business environments that
 
 #### WORK EXPERIENCE
 
-**VP of Human Resources**, Community Credit Union of Florida, Rockledge, FL **May 2015 - May 2025**
+**VP of Human Resources**, Community Credit Union of Florida, Rockledge, FL                                          **May 2015 - May 2025**
 
 - Displayed excellence in constantly changing top HR role contributing to the success of the organization by successfully meeting new challenges ensuring company growth from \$500M to \$1.2B asset size.
 - Ensured human resource policies were relevant, compliant and reflected the overall philosophy of the organization. Communicated the introduction of HR policies and procedures to all levels of staff; provided advice and interpretation of policies meeting strategic credit union objectives.
@@ -34,7 +34,7 @@ Experienced professional who has worked in fast-paced business environments that
 
 #### **VOLUNTEER EXPERIENCE**
 
-**Volunteer Senior TranServe Driver**, Aging Matters in Brevard, Cocoa, FL **September 2025 to current**
+**Volunteer Senior TranServe Driver**, Aging Matters in Brevard, Cocoa, FL                                             **September 2025 to current**
 
 - Senior TranServe supports elderly individuals to maintain their independence and quality of life.
 
