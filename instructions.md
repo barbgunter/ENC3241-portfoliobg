@@ -18,7 +18,7 @@ This aid provides instructions for creating a Will document for an existing clie
 
 **Step 2**. Type In Username and Password. Click **Sign In** (Figure 2).
 
-![image instructions](Image1.docx)
+![image instructions](Image2.docx)
 
 (_Figure 2. Sign in page. Screenshot by Barbara Gunter)_
 
