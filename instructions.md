@@ -6,7 +6,7 @@ title: Instructions
 
 # Instructions
 
-##**Instructions for Creating a Will via WealthCounsel**
+**##Instructions for Creating a Will via WealthCounsel**
 
 This aid provides instructions for creating a Will document for an existing client in WealthCounsel software.
 
