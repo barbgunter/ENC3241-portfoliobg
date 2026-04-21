@@ -2,7 +2,7 @@
 layout: default
 title: Cover Letter
 ---
-*This cover letter was completed as part of an assignment for ENC 3241-Writing for the Technical Professional coursework.*
+*This Cover Letter was completed as part of an assignment for ENC 3241-Writing for the Technical Professional coursework.*
 
 # Cover Letter
 
