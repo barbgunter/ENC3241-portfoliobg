@@ -13,11 +13,13 @@ This aid provides instructions for creating a Will document for an existing clie
 **Step 1**. Go to WealthCounsel website: [www.wealthcounsel.com](http://www.wealthcounsel.com). Click **Login** (Figure 1).
 
 ![image instructions](image1.docx)
+
 (_Figure 1. Website home page. Screenshot by Barbara Gunter)_
 
 **Step 2**. Type In Username and Password. Click **Sign In** (Figure 2).
 
 ![image instructions](image1.docx)
+
 (_Figure 2. Sign in page. Screenshot by Barbara Gunter)_
 
 **Step 3**. Click **Solutions** on the menu bar Home page (Figure 3).
@@ -35,11 +37,12 @@ This aid provides instructions for creating a Will document for an existing clie
 **Step 5**. Click **Scenarios** from the available menu (Figure 5).
 
 ![image instructions](image1.docx)
+
 (_Figure 5. Click Scenarios. Screenshot by Barbara Gunter)_
 
 **Step 6**. Click the **"+"** sign to create the Will on My Firm's Scenarios page at the far right of the page (Figures 6, 7)
 
-![]AAAElFTkSuQmCC)
+![image instructions](image1.docx)
 
 (_Figure 6. My Firm's Scenarios page. Screenshot by Barbara Gunter)_
 
