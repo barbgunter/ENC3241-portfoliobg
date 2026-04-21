@@ -2,6 +2,7 @@
 layout: default
 title: Resume
 ---
+*This Resume was completed as part of an assignment for ENC 3241-Writing for the Technical Professional coursework.*
 
 # Resume
 
