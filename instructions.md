@@ -4,9 +4,9 @@ title: Instructions
 ---
 *This Instruction document was completed as part of an assignment for ENC 3241-Writing for the Technical Professional coursework.*
 
-# Instructions
+# Instructions for Creating a Will via WealthCounsel
 
-**##Instructions for Creating a Will via WealthCounsel**
+**Instructions **
 
 This aid provides instructions for creating a Will document for an existing client in WealthCounsel software.
 
