@@ -46,7 +46,7 @@ This aid provides instructions for creating a Will document for an existing clie
 
 **Step 6**. Click the **"+"** sign to create the Will on My Firm's Scenarios page at the far right of the page (Figures 6, 7)
 
-![image instructions](Image6.jpg)
+![image instructions](Image6ii.jpg)
 
 (_Figure 6. My Firm's Scenarios page. Screenshot by Barbara Gunter)_   
 
