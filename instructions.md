@@ -6,14 +6,14 @@ title: Instructions
 
 # Instructions for Creating a Will via WealthCounsel
 
-This aid provides instructions for creating a Will document for an existing client in WealthCounsel software.<br>
+This aid provides instructions for creating a Will document for an existing client in WealthCounsel software.   
 
 
 **Step 1**. Go to WealthCounsel website: [www.wealthcounsel.com](http://www.wealthcounsel.com). Click **Login** (Figure 1).
 
 ![image instructions](Image1ii.jpg)
 
-(_Figure 1. Website home page. Screenshot by Barbara Gunter)_<br>
+(_Figure 1. Website home page. Screenshot by Barbara Gunter)_   
 
 
 
@@ -21,14 +21,14 @@ This aid provides instructions for creating a Will document for an existing clie
 
 ![image instructions](Image2.jpg)
 
-(_Figure 2. Sign in page. Screenshot by Barbara Gunter)_<br>
+(_Figure 2. Sign in page. Screenshot by Barbara Gunter)_   
 
 
 **Step 3**. Click **Solutions** on the menu bar Home page (Figure 3).
 
 ![image instructions](Image3ii.jpg)
 
-(_Figure 3. Menu bar home page. Screenshot by Barbara Gunter)_<br>
+(_Figure 3. Menu bar home page. Screenshot by Barbara Gunter)_   
 
 
 
@@ -36,7 +36,7 @@ This aid provides instructions for creating a Will document for an existing clie
 
 ![image instructions](Image4ii.jpg)
 
-(_Figure 4. Solutions dropdown menu. Screenshot by Barbara Gunter)_<br>
+(_Figure 4. Solutions dropdown menu. Screenshot by Barbara Gunter)_   
 
 
 
@@ -44,7 +44,7 @@ This aid provides instructions for creating a Will document for an existing clie
 
 ![image instructions](Image5ii.jpg)
 
-(_Figure 5. Click Scenarios. Screenshot by Barbara Gunter)_<br>
+(_Figure 5. Click Scenarios. Screenshot by Barbara Gunter)_   
 
 
 
@@ -52,20 +52,20 @@ This aid provides instructions for creating a Will document for an existing clie
 
 ![image instructions](Image6.jpg)
 
-(_Figure 6. My Firm's Scenarios page. Screenshot by Barbara Gunter)_<br>
+(_Figure 6. My Firm's Scenarios page. Screenshot by Barbara Gunter)_   
 
 
 ![image instructions](Image8ii.jpg)
 
 (_Figure 7. Close-up My Firm's Scenarios "+" icon. Screenshot by Barbara Gunter)_
 
-**Step 7**. After clicking on the **"+"** sign, the **Create Document** screen opens. (Figure 8).<br>
+**Step 7**. After clicking on the **"+"** sign, the **Create Document** screen opens. (Figure 8).   
 
 
 
 ![image instructions](Image8.jpg)
 
-(_Figure 8. Create Document. Screenshot by Barbara Gunter)_<br>
+(_Figure 8. Create Document. Screenshot by Barbara Gunter)_   
 
 
 
