@@ -31,14 +31,14 @@ This aid provides instructions for creating a Will document for an existing clie
 
 **Step 4**. Click **Customization** from the available drop-down menu (Figure 4).
 
-![image instructions](Image4.jpg)
+![image instructions](Image4ii.jpg)
 
 (_Figure 4. Solutions dropdown menu. Screenshot by Barbara Gunter)_
 
 
 **Step 5**. Click **Scenarios** from the available menu (Figure 5).
 
-![image instructions](Image5.jpg)
+![image instructions](Image5ii.jpg)
 
 (_Figure 5. Click Scenarios. Screenshot by Barbara Gunter)_
 
