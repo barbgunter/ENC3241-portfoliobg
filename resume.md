@@ -6,7 +6,7 @@ title: Resume
 
 # Resume
 
-## BARBARA L. GUNTER
+### BARBARA L. GUNTER<br>
 4000 Central Florida Blvd.<br>
 Orlando, FL 32816<br>
 BarbGunter@ucf.edu <br>
