@@ -9,7 +9,6 @@ title: Cover Letter
 <p>Barbara L. Gunter<br>
 4000 Central Florida Blvd.<br>
 Orlando, FL 32816<br>
-(407) 123-4567<br>
 <br>
 Book of the Month<br>
 34 W 27th St., Floor 10<br>
