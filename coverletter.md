@@ -30,8 +30,8 @@ My work experience required me to learn and grow over time as the organization g
 
 Given my related experience and excellent capabilities, I can bring a depth of knowledge to this position but remain eager to learn. You will find me to be well-spoken, energetic, personable, and dependable. I am confident that I will provide value to you and your company as a member of your team.
 
-Thank you for your time and consideration. I am excited about this opportunity and look forward to speaking with you further about the chance to be a part of Book of the Month's editorial team.
+Thank you for your time and consideration. I am excited about this opportunity and look forward to speaking with you further about the chance to be a part of Book of the Month's editorial team.<br>
 
-Sincerely,
+<p>Sincerely,<br>
 
-Barbara L. Gunter
+<p>Barbara L. Gunter<br>
