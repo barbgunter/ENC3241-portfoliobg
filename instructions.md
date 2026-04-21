@@ -6,13 +6,15 @@ title: Instructions
 
 # Instructions for Creating a Will via WealthCounsel
 
-This aid provides instructions for creating a Will document for an existing client in WealthCounsel software.
+This aid provides instructions for creating a Will document for an existing client in WealthCounsel software.<br>
+
 
 **Step 1**. Go to WealthCounsel website: [www.wealthcounsel.com](http://www.wealthcounsel.com). Click **Login** (Figure 1).
 
 ![image instructions](Image1.jpg)
 
 (_Figure 1. Website home page. Screenshot by Barbara Gunter)_<br>
+
 
 
 **Step 2**. Type In Username and Password. Click **Sign In** (Figure 2).
@@ -29,6 +31,7 @@ This aid provides instructions for creating a Will document for an existing clie
 (_Figure 3. Menu bar home page. Screenshot by Barbara Gunter)_<br>
 
 
+
 **Step 4**. Click **Customization** from the available drop-down menu (Figure 4).
 
 ![image instructions](Image4ii.jpg)
@@ -36,11 +39,13 @@ This aid provides instructions for creating a Will document for an existing clie
 (_Figure 4. Solutions dropdown menu. Screenshot by Barbara Gunter)_<br>
 
 
+
 **Step 5**. Click **Scenarios** from the available menu (Figure 5).
 
 ![image instructions](Image5ii.jpg)
 
 (_Figure 5. Click Scenarios. Screenshot by Barbara Gunter)_<br>
+
 
 
 **Step 6**. Click the **"+"** sign to create the Will on My Firm's Scenarios page at the far right of the page (Figures 6, 7)
@@ -57,9 +62,11 @@ This aid provides instructions for creating a Will document for an existing clie
 **Step 7**. After clicking on the **"+"** sign, the **Create Document** screen opens. (Figure 8).<br>
 
 
+
 ![image instructions](Image8.jpg)
 
 (_Figure 8. Create Document. Screenshot by Barbara Gunter)_<br>
+
 
 
 **Step 8**. Begin by typing in the client matter name, when the name is recognized, it will appear in the box.
@@ -75,7 +82,6 @@ This aid provides instructions for creating a Will document for an existing clie
 _Ex: Doe, John. J. Will 2026._
 
 **Step 13**. Edit the document to incorporate client matter specific information.
-
 
 
 
