@@ -12,54 +12,54 @@ This aid provides instructions for creating a Will document for an existing clie
 
 ![image instructions](Image1.jpg)
 
-(_Figure 1. Website home page. Screenshot by Barbara Gunter)_
+(_Figure 1. Website home page. Screenshot by Barbara Gunter)_<br>
 
 
 **Step 2**. Type In Username and Password. Click **Sign In** (Figure 2).
 
 ![image instructions](Image2.jpg)
 
-(_Figure 2. Sign in page. Screenshot by Barbara Gunter)_
+(_Figure 2. Sign in page. Screenshot by Barbara Gunter)_<br>
 
 
 **Step 3**. Click **Solutions** on the menu bar Home page (Figure 3).
 
 ![image instructions](Image3.jpg)
 
-(_Figure 3. Menu bar home page. Screenshot by Barbara Gunter)_
+(_Figure 3. Menu bar home page. Screenshot by Barbara Gunter)_<br>
 
 
 **Step 4**. Click **Customization** from the available drop-down menu (Figure 4).
 
 ![image instructions](Image4ii.jpg)
 
-(_Figure 4. Solutions dropdown menu. Screenshot by Barbara Gunter)_
+(_Figure 4. Solutions dropdown menu. Screenshot by Barbara Gunter)_<br>
 
 
 **Step 5**. Click **Scenarios** from the available menu (Figure 5).
 
 ![image instructions](Image5ii.jpg)
 
-(_Figure 5. Click Scenarios. Screenshot by Barbara Gunter)_
+(_Figure 5. Click Scenarios. Screenshot by Barbara Gunter)_<br>
 
 
 **Step 6**. Click the **"+"** sign to create the Will on My Firm's Scenarios page at the far right of the page (Figures 6, 7)
 
 ![image instructions](Image6.jpg)
 
-(_Figure 6. My Firm's Scenarios page. Screenshot by Barbara Gunter)_
+(_Figure 6. My Firm's Scenarios page. Screenshot by Barbara Gunter)_<br>
 
 
 ![image instructions](Image8ii.jpg)
 
 (_Figure 7. Close-up My Firm's Scenarios "+" icon. Screenshot by Barbara Gunter)_
 
-**Step 7**. After clicking on the **"+"** sign, the **Create Document** screen opens. (Figure 8).
+**Step 7**. After clicking on the **"+"** sign, the **Create Document** screen opens. (Figure 8).<br>
 
 
 ![image instructions](Image8.jpg)
 
-(_Figure 8. Create Document. Screenshot by Barbara Gunter)_
+(_Figure 8. Create Document. Screenshot by Barbara Gunter)_<br>
 
 
 **Step 8**. Begin by typing in the client matter name, when the name is recognized, it will appear in the box.
