@@ -12,7 +12,7 @@ Orlando, FL 32816<br>
 BarbGunter@ucf.edu <br>
 (407) 123-4567
 
-<font size="5">Experienced professional who has worked in fast-paced business environments that demanded strong organizational, technical, and interpersonal skills. A diligent, consistently promoted worker with extensive experience in daily business communication and documentation who is seeking an editorial role.
+Experienced professional who has worked in fast-paced business environments that demanded strong organizational, technical, and interpersonal skills. A diligent, consistently promoted worker with extensive experience in daily business communication and documentation who is seeking an editorial role.
 
 #### **EDUCATION**
 
